@@ -5,12 +5,15 @@
   "private": true,
   "dependencies": {
     "@nativescript/core": "~8.8.0",
+    "@nativescript/pdf": "^2.0.0",
+    "nativescript-pdf-view": "^3.0.0-1",
     "react": "^18.2.0",
     "react-nativescript": "^5.0.0",
     "react-nativescript-navigation": "^5.0.0"
   },
   "devDependencies": {
-    "@nativescript/preview-cli": "^1.0.14",
+    "@nativescript/android": "8.8.6",
+    "@nativescript/preview-cli": "1.0.14",
     "@nativescript/stackblitz": "^0.0.8",
     "@nativescript/tailwind": "^2.1.0",
     "@nativescript/types-minimal": "~8.8.0",
